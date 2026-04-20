@@ -1,2 +1,2 @@
 # rstats-dataviz
-Graphics made using r and ggplot.
+A gallery of publicly shared graphics I created with R.
